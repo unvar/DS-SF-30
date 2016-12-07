@@ -43,7 +43,7 @@ The dataset is available [here](../dataset).
 
 For this project we will be using an Jupyter notebook.  This notebook will use `matplotlib` for plotting and visualizing our data.  This type of visualization is handy for prototyping and quick data analysis.  We will discuss more advanced data visualizations for disseminating your work.
 
-* Open the [starter code notebook](./code/unit-project-2-starter-code.ipynb) in Anaconda.
+* Open the [starter code notebook](./notebooks/unit-project-2-starter-code.ipynb) in Anaconda.
 
 ### Suggestions for Getting Started
 

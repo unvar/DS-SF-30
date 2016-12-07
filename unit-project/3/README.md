@@ -35,7 +35,7 @@ The dataset is available [here](../dataset).
 
 ### Starter code
 
-Review the questions in the [starter code notebook](./code/unit-project-3-starter-code.ipynb) provided.
+Review the questions in the [starter code notebook](./notebooks/unit-project-3-starter-code.ipynb) provided.
 
 ### Suggestions for Getting Started
 
