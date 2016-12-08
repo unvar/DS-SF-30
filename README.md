@@ -23,8 +23,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 15 | 2/2 | Intermediate Project Presentations | | **[Unit Project 3](./unit-project/3)** |
 | 16 | 2/7 | Trees | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
 | 17 | 2/9 | Applied Machine Learning Modeling, Part 2 | **[Final Project 4](./final-project/4)** | |
-| 18 | 2/14 | Introduction to Natural Language Processing | | **[Unit Project 4](./unit-project/4)** |
-| 19 | 2/16 | Introduction to Time Series | | **[Final Project 4](./final-project/4)** |
+| 18 | 2/14 | Natural Language Processing | | **[Unit Project 4](./unit-project/4)** |
+| 19 | 2/16 | Time Series | | **[Final Project 4](./final-project/4)** |
 | 20 | 2/21 | Final Project Presentations | **[Final Project 5](./final-project/5)** | **[Final Project 5](./final-project/5)** |
 
 ## Your Team
@@ -37,7 +37,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- Megan: TBD
+- Megan: Tuesdays and Thursdays, 5:15-6:15 PM at the GA campus
 - Ivan: On demand/per request; usually just before or after class and online (e.g., Slack)
 
 ## Slack

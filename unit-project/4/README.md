@@ -37,7 +37,7 @@ The dataset is available [here](../dataset).
 
 ### Starter code
 
-Open the [starter code notebook](./code/unit-project-4-starter-code.ipynb) and follow the questions provided.
+Open the [starter code notebook](./notebooks/unit-project-4-starter-code.ipynb) and follow the questions provided.
 
 ### Suggestions for Getting Started
 
