@@ -7,7 +7,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Class | Date | Topic | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|
 | [01](./classes/01) | 12/6 | [What is Data Science](./classes/01) | | |
-| 02 | 12/8 | The _pandas_ Library | | |
+| [02](./classes/02) | 12/8 | [The _pandas_ Library](./classes/02) | | |
 | 03 | 12/13 | Databases and APIs | | |
 | 04 | 12/15 | Exploratory Data Analysis | | |
 | 05 | 12/20 | k-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
