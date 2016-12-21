@@ -8,4 +8,4 @@ The dataset contains four variables: `admit`, `gre`, `gpa`, and `prestige`:
 - `gpa` is the GPA score.  GPA stands for Grade Point Average.
 - `prestige` is the prestige of an applicant alta mater, with 1 as highest tier (most prestigeous) and 4 as the lowest tier (least prestigeous).
 
-> Dataset: [ucla-admissions.csv](./ucla-admissions.csv)
+> Dataset: [dataset-ucla-admissions.csv](./dataset-ucla-admissions.csv)
