@@ -11,10 +11,10 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [03](./classes/03) | 12/13 | [Databases, Scrapping, and APIs](./classes/03) | | |
 | [04](./classes/04) | 12/15 | [Exploratory Data Analysis](./classes/04) | | |
 | [05](./classes/05) | 12/20 | [k-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
-| 06 | 1/3 | Applied Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
-| 07 | 1/5 | Model Fit | **[Final Project 1](./final-project/1)** | |
-| 08 | 1/10 | Linear Regression | **[Unit Project 2](./unit-project/2)** | |
-| 09 | 1/12 | Linear Regression, Part 2 | | **[Final Project 1](./final-project/1)** |
+| [06](./classes/06) | 1/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | **[Unit Project 1](./unit-project/1)** |
+| 07 | 1/5 | Linear Regression | **[Final Project 1](./final-project/1)** | |
+| 08 | 1/10 | Linear Regression, Part 2 | **[Unit Project 2](./unit-project/2)** | |
+| 09 | 1/12 | Linear Regression, Part 3 | | **[Final Project 1](./final-project/1)** |
 | 10 | 1/17 | Regularization | **[Final Project 2](./final-project/2)** | **[Unit Project 2](./unit-project/2)** |
 | 11 | 1/19 | Logistic Regression | | |
 | 12 | 1/24 | Applied Machine Learning Modeling | | **[Final Project 2](./final-project/2)** |
