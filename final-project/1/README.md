@@ -1,9 +1,8 @@
 # DS-SF-30 | Final Project 1: Lightning Presentation
 
 > **Submission:**
->
-> - Please submit your presentation via a private message on Slack to Megan and Ivan (all of us in the **same** Slack message) with a link to it.
-> - Present materials in class.
+> Push your finished assignment to your GitHub repo for this class. Then, submit the link to the location of your file on 
+> Github via the form shared in slack.
 
 ---
 
