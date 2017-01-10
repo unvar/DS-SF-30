@@ -1,9 +1,9 @@
-# DS-SF-30 | Final Project 1: Lightning Presentation
+# DS-SF-30 | Final Project 1: Lightning Pitch
 
 > **Submission:**
 >
-> - Please submit your presentation via a private message on Slack to Megan and Ivan (all of us in the **same** Slack message) with a link to it.
-> - Present materials in class.
+> - Please push your assignment to your fork (your GitHub repository of the course) and submit a link to it via the form shared in Slack.
+> - You will pitch your ideas in class in small groups, get feedback for your own final project and provide feedback for others as well.
 
 ---
 
@@ -33,9 +33,11 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
   - Be two to three minutes in duration.
   - Demonstrate familiarity with the domain of the data.
 
-- **Bonus:**
-  - High-level data points can help show the "improvement" scope that's available.
-  - Cite similar/previous work that will better inform your strategy that can be taken.
+## Pitch Feedback
+
+- Listen to your peer's pitches and provide written feedback.  Specifically:
+  - How might they iterate the hypothesis?  What are alternative hypotheses?
+  - How might any risks/challenges be addressed?
 
 ---
 
@@ -51,9 +53,3 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 ### Additional Links
 
 - For overall project ideas, consider looking at former [General Assembly Data Science Projects](https://gallery.generalassemb.ly/DS).
-
----
-
-## EVALUATION
-
-The rubric is available [here](https://docs.google.com/spreadsheets/d/1951W6xay6s2VaWXskqPClz799D3fsO_AHzXaNOHaE00/edit#gid=1573999595).
