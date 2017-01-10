@@ -2,7 +2,7 @@
 
 > **Submission:**
 >
-> - Push your finished assignment to your GitHub repo for this class. Then, submit the link to the location of your file on Github via the form shared in slack.
+> - Please push your assignment to your fork (your GitHub repository of the course) and submit a link to it via the form shared in Slack.
 
 ---
 

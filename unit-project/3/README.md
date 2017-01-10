@@ -2,7 +2,7 @@
 
 > **Submission:**
 >
-> - Please submit your project via GitHub and send a private message on Slack to Megan and Ivan (all of us in the **same** Slack message) with a link to it.
+> - Please push your assignment to your fork (your GitHub repository of the course) and submit a link to it via the form shared in Slack.
 
 ---
 
