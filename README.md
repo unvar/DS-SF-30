@@ -15,7 +15,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [07](./classes/07) | 1/5 | [Linear Regression](./classes/07) | | |
 | [08](./classes/08) | 1/10 | [Linear Regression, Part 2](./classes/08) | **[Final Project 1](./final-project/1)** | |
 | [09](./classes/09) | 1/12 | [Linear Regression, Part 3](./classes/09) | **[Unit Project 2](./unit-project/2)** | |
-| 10 | 1/17 | Regularization | | **[Final Project 1](./final-project/1)** |
+| [10](./classes/10) | 1/17 | [Regularization](./classes/10) | | **[Final Project 1](./final-project/1)** |
 | 11 | 1/19 | Logistic Regression | | **[Unit Project 2](./unit-project/2)** |
 | 12 | 1/24 | Applied Machine Learning Modeling | | |
 | 13 | 1/26 | Advanced Metrics | **[Final Project 2](./final-project/2)** | |
